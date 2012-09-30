@@ -1,0 +1,9 @@
+C:\Users\jlw\Desktop\TaskTracker\bin\Release\TaskTracker.exe.config
+C:\Users\jlw\Desktop\TaskTracker\bin\Release\TaskTracker.exe
+C:\Users\jlw\Desktop\TaskTracker\bin\Release\TaskTracker.pdb
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\TaskTracker.TaskTracker.resources
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\TaskTracker.Properties.Resources.resources
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\TaskTracker.csproj.GenerateResource.Cache
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\TaskTracker.exe
+C:\Users\jlw\Desktop\TaskTracker\obj\Release\TaskTracker.pdb
